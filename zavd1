@@ -1,0 +1,9 @@
+public class main {
+	public static void main(String[] args) {
+int a = 10;
+int b = 7;
+System.out.println(Math.sqrt(a^2+b^2));
+
+
+}
+}
